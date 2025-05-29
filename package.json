@@ -21,6 +21,26 @@
         "label": "Zifir",
         "uiTheme": "vs-dark",
         "path": "./themes/Zifir-color-theme.json"
+      },
+      {
+        "label": "Zifir Lumi",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Zifir-Lumi-color-theme.json"
+      },
+      {
+        "label": "Zifir Perydot",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Zifir-Perydot-color-theme.json"
+      },
+      {
+        "label": "Zifir Amethyst",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Zifir-Amethyst-color-theme.json"
+      },
+      {
+        "label": "Zifir Flare",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Zifir-Flare-color-theme.json"
       }
     ]
   }
