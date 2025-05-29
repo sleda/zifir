@@ -1,0 +1,27 @@
+{
+  "name": "zifir",
+  "displayName": "Zifir",
+  "description": " A profoundly dark theme inspired by 'zifiri karanlık' (pitch black), illuminated by sharp electric blue accents for VS Code.",
+  "version": "0.0.1",
+  "publisher": "sleda",
+  "author": {
+    "name": "sleda",
+    "email": "devsleda@gmail.com",
+    "url": "https://github.com/sleda"
+  },
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Zifir",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Zifir-color-theme.json"
+      }
+    ]
+  }
+}
